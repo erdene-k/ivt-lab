@@ -10,6 +10,7 @@
 	<sonar.projectKey>erdene-k_ivt-lab</sonar.projectKey>
   <sonar.organization>erdene-k</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  
 	</properties>
 
 	<dependencies>
