@@ -6,8 +6,8 @@
 	<version>0.5.0-SNAPSHOT</version>
 
 	<properties>
-		
-		  <sonar.projectKey>erdene-k_ivt-lab</sonar.projectKey>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<sonar.projectKey>erdene-k_ivt-lab</sonar.projectKey>
   <sonar.organization>erdene-k</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
